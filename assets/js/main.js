@@ -294,4 +294,5 @@
 
 document.addEventListener("DOMContentLoaded", function() {
   document.querySelector('#shivam-soni-dev-loader').style.opacity = 0;
+  document.querySelector('#shivam-soni-dev-loader').style.display = 'none';
 });
